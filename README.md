@@ -1,3 +1,5 @@
+Power BI Project - Data Professional Survey
+
 This project involves creating a visualization dashboard based on a survey of data professionals to explore their journeys in the data world. The data was transformed using Power Query, and the dashboard highlights key insights and trends in geographical distribution, programming language preferences, work-life balance, salary satisfaction, and gender representation.
 
 Key Insights:
